@@ -223,7 +223,7 @@ str(pastCustomers)
 
 ## Now we will plot the trends based on the drivers in past number of customers 
 ggplot(pastCustomers , aes(TransactionMonth,  nCustomers , color =  Store_type)) + geom_line() + labs(x = "Month of operation", y = "Number of Customers", title = "Total Number of Customers by month")
-ggplot(data = past) + 
+ggplot(data = pastCustomers) + 
   geom_line(mapping = aes(x = TransactionMonth , y = nCustomers , color =  Store_type))
 
 summary(pastCustomers[pastCustomers$Store_type == "Other stores", "nCustomers"])
