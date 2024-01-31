@@ -30,7 +30,7 @@ Visualizations play a crucial role in presenting insights to the client. The fol
 ## Key Insights and Recommendations
 - **Control Store Selection**: Details on how control stores were selected and the rationale behind the selection criteria.
 - **Trial Store Assessment**: Insights from the comparison of trial stores against control stores, including any significant differences observed in sales or customer behavior.
-- **Strategic Recommendation**: Based on the analysis, a clear recommendation is provided on whether the trial layout should be adopted across all stores.<br>!!Spoiler Alert!!: Trial Layout Should definitely be adopted for the stores as it shows a significant increase in sales during the trial period. 
+- **Strategic Recommendation**: Based on the analysis, a clear recommendation is provided on whether the trial layout should be adopted across all stores.<br>`!!Spoiler Alert!!`: Trial Layout Should definitely be adopted for the stores as it shows a significant increase in sales during the trial period. 
 
 ## How to Run
 1. Clone the repository and Run the Script in R or open with R-studio:
