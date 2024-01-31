@@ -14,6 +14,7 @@ The primary objective is to evaluate the performance of trial layouts in stores 
 - `Quantium_Data_Analysis_Task_2.R`: R script containing the analysis.
 - `Quantium Data Analysis Task 2/Quantium_Data_Analysis_Task_2_files/figure-gfm`: Directory containing visualizations.
 - `Quantium_Data_Analysis_Task_2.md`: This is a fully knitted R.md file which contains the R notebook and can be previewed on Github. This is located inside `Quantium Data Analysis Task 2/`.
+- `Quantium Task 3`: This folder contains everything for Task 3. A powerpoint, pdf version of the same powerpoint and a word document containing the email to the client.
 
 ## Analysis Workflow
 1. **Select Control Stores**: Identify control stores that closely match the trial stores based on key metrics. This involves data exploration, visualization, and statistical analysis.
@@ -32,8 +33,12 @@ Visualizations play a crucial role in presenting insights to the client. The fol
 - **Trial Store Assessment**: Insights from the comparison of trial stores against control stores, including any significant differences observed in sales or customer behavior.
 - **Strategic Recommendation**: Based on the analysis, a clear recommendation is provided on whether the trial layout should be adopted across all stores.<br>`!!Spoiler Alert!!`: Trial Layout Should definitely be adopted for the stores as it shows a significant increase in sales during the trial period. 
 
+## Task 3:
+- This is located inside `Quantium Task 3` folder and contains a powerpoint presentation and an email which sums up all of our findings and key insights for our client in a brief manner with visual aid of our graphs.
 ## How to Run
 1. Clone the repository and Run the Script in R or open with R-studio:
    ```sh
    git clone https://github.com/Sun-of-a-beach/Quantium-Virtual-Internship---Retail-Strategy-and-Analytics-Task-2.git
    ```
+
+### **Verify Certificate of Completion:** [**click here**](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Quantium/NkaC7knWtjSbi6aYv_Quantium_nN85ZNS34e5jzKoqP_1682773956945_completion_certificate.pdf)
