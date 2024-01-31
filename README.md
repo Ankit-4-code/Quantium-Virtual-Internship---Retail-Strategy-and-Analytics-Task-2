@@ -23,13 +23,14 @@ The primary objective is to evaluate the performance of trial layouts in stores 
 ## Visualization
 Visualizations play a crucial role in presenting insights to the client. The following charts are included to support the analysis:
 
-![Sales Comparison](images/sales_comparison.png)
-![Customer Count Comparison](images/customer_count_comparison.png)
+- Total Sales:<br>![Total Sales](images/TotalSales.png)
+- Comparison between Total Number of Customers for trial store 77 and control store 233:<br>![Comparison between Total Number of Customers for trial store 77 and control store 233](images/TrialStore77vsControlStore233-TotalCustomers.png)
+- Comparison between Total Sales for trial store 77 and control store 233:<br>![Comparison between Total Sales for trial store 77 and control store 233](images/TrialStore77vsControlStore233-TotalSales.png)
 
 ## Key Insights and Recommendations
 - **Control Store Selection**: Details on how control stores were selected and the rationale behind the selection criteria.
 - **Trial Store Assessment**: Insights from the comparison of trial stores against control stores, including any significant differences observed in sales or customer behavior.
-- **Strategic Recommendation**: Based on the analysis, a clear recommendation is provided on whether the trial layout should be adopted across all stores.
+- **Strategic Recommendation**: Based on the analysis, a clear recommendation is provided on whether the trial layout should be adopted across all stores.<br>!!Spoiler Alert!!: Trial Layout Should definitely be adopted for the stores as it shows a significant increase in sales during the trial period. 
 
 ## How to Run
 1. Clone the repository and Run the Script in R or open with R-studio:
